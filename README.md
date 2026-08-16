@@ -13,25 +13,7 @@
 
 ## 📸 Platform Visual Previews & Screenshots
 
-```
-+-------------------------------------------------------------------------------------------------------+
-|  🛡️ AI PRIVACY GUARD  [Dashboard] [Privacy Scan] [Image Editor] [Object Remover] [Copilot] [Research] |
-+-------------------------------------------------------------------------------------------------------+
-|  +-------------------------------------+  +--------------------------------------------------------+  |
-|  | 📊 REAL-TIME PRIVACY RISK SCORE     |  | 🖼️ CONTEXT-AWARE VISION CANVAS                          |  |
-|  | Score: 84/100 (HIGH RISK)             |  |                                                        |  |
-|  | - License Plate: KA 01 MJ 8821        |  |   [ Person (Main Subject) - EXPOSED / PRESERVED ]      |  |
-|  | - Bystander Face: High Risk            |  |   [ Background Bystander - BLURRED ]                       |  |
-|  | - Child Face: High Risk               |  |   [ License Plate - PIXELATED ]                            |  |
-|  | - UPI QR Code: High Risk              |  |   [ Credit Card / Text - SOLID REDACTED ]                  |  |
-|  | [ Auto-Protect All High Risk ]      |  |                                                        |  |
-|  +-------------------------------------+  +--------------------------------------------------------+  |
-|  +-------------------------------------------------------------------------------------------------+  |
-|  | 🧩 BENTO GRID FEATURE MODULES                                                                    |  |
-|  |  [🔍 Vision Scanner]   [🎨 Image Editor]   [🧹 AI Object Remover]   [🤖 Privacy Copilot Agent]  |  |
-|  +-------------------------------------------------------------------------------------------------+  |
-+-------------------------------------------------------------------------------------------------------+
-```
+
 
 ### 1. Main Dashboard & Privacy Risk Index
 - **Dynamic Bounding Overlay**: Visualizes all detected sensitive elements with risk color coding (Red = High Risk, Yellow = Medium Risk, Green = Low Risk / Preserved Subject).
