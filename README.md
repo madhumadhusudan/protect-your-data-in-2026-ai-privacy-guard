@@ -11,7 +11,7 @@
 
 ---
 
-## 📸 Platform Visual Previews & Screenshots
+## 📸 Platform Visual Previews & Screenshots.
 
 
 
@@ -19,7 +19,7 @@
 - **Dynamic Bounding Overlay**: Visualizes all detected sensitive elements with risk color coding (Red = High Risk, Yellow = Medium Risk, Green = Low Risk / Preserved Subject).
 - **Privacy Vulnerability Breakdown**: Live score calculation out of 100 with one-click **Auto-Protect All** execution.
 
-### 2. Multi-Method Image Editor & Layer Inspector
+### 2. Multi-Method Image Editor & Layer Inspector.
 - Custom control over every single detected element.
 - Fine-tune blur radiuses (Gaussian, Motion, Radial), pixelation block sizes, solid redactions, or synthetic face masks.
 
