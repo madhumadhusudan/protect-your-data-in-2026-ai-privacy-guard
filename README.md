@@ -12,6 +12,7 @@
 ---
 
 ## 📸 Platform Visual Previews & Screenshots.
+<img width="1339" height="592" alt="Screenshot 2026-08-18 231940" src="https://github.com/user-attachments/assets/9cb061c7-2f6d-4c76-b5a5-3c1e6e117e66" />
 
 
 
